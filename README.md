@@ -3,7 +3,7 @@
 <h3>Olá, eu sou o Davi Rodrigues. Seja bem vindo ao meu perfil!</h3><br>
 ➡️ Sou Analista Junior de Relacionamento ao Cliente na Linx S/A;<br>
 
-<h3><b>🔦 Visite minhas redes:<b></h3>
+<h3><b>🔦 Visite meu Linkedin:<b></h3>
 <div align="center" style="display: flex">
 
 <a href="www.linkedin.com/in/davirodriguesnascimento" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
